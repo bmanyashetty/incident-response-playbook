@@ -15,11 +15,18 @@ Welcome to the *Incident Response Playbook* project — a structured guide to de
 
 ---
 
-## 🔧 *Tools Used*
+## 🔧 Tools Used
 
-- ⚙️ *Splunk* – SIEM tool for log analysis and detection  
-- 🐍 *Python* – Used for writing automation scripts  
-- 🧠 *MITRE ATT&CK Framework* – For mapping adversary tactics and techniques
+🐍 **Python** – Used to write an automation script that simulates containment actions (e.g., locking a suspicious user account)
+
+🖥️ **Visual Studio Code** – Used as the development environment for scripting and terminal execution
+
+📄 **Markdown (.md)** – Used for documenting the incident response lifecycle and use-case scenario
+
+📚 **NIST SP 800-61** – Followed as the framework for structuring the incident response lifecycle and playbook design
+
+📂 **Organized Folder Structure** – Created structured directories for docs, automation tools, and use-cases (e.g., phishing)
+
 
 ---
 
